@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Junk Mail?
-permalink: /Junk Mail?/
+permalink: /about/
 ---
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/rqfDjmAkq7U?list=PL85YZfAXNjjuueCZkLNgKf4RmJNuUCO6R" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
