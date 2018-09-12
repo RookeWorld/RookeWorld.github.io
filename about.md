@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Junk Mail?
 permalink: /about/
 ---
 
-Some information about you!
+<video src="video.mp4" width="320" height="200" controls preload>https://www.youtube.com/watch?v=9YgmMJJ34k4&list=PL85YZfAXNjjuueCZkLNgKf4RmJNuUCO6R&index=16</video>
 
-### More Information
+<video src="video.mp4" width="320" height="200" controls preload>https://www.youtube.com/watch?v=32pevPCH03c&list=PL85YZfAXNjjuueCZkLNgKf4RmJNuUCO6R&index=17</video>
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<video src="video.mp4" width="320" height="200" controls preload>https://www.youtube.com/watch?v=aho6XmpSgk4</video>
