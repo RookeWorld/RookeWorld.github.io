@@ -1,7 +1,7 @@
 ---
 layout: page
 
-Title: Junk Mail?
+title: Junk Mail?
 
 .effect-c {
   opacity: 0.5;
