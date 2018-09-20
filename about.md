@@ -4,6 +4,12 @@ title: Junk Mail?
 permalink: /about/
 ---
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
 <iframe width="427" height="240" src="https://www.youtube.com/embed/rqfDjmAkq7U?list=PL85YZfAXNjjuueCZkLNgKf4RmJNuUCO6R" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="427" height="240" src="https://www.youtube.com/embed/32pevPCH03c?list=PL85YZfAXNjjuueCZkLNgKf4RmJNuUCO6R" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -19,3 +25,6 @@ permalink: /about/
 <p>
       Enjoy! (' ͜ ͜  ')
 </p>
+
+
+}
