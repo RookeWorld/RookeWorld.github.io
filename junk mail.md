@@ -4,6 +4,4 @@ title: Junk Mail?
 permalink: /junk mail/
 ---
 
-<p>
-Wow
-</p>
+You could put stuff like another folder - games? How do you change the font of the text???
